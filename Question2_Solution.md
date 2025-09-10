@@ -1,4 +1,4 @@
-# Question 2 – Index Strategy & Query Optimization (Final – Undergraduate Level)
+# Question 2 – Index Strategy & Query Optimization 
 
 ---
 
