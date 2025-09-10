@@ -12,7 +12,7 @@ The case study focuses on **SQL Server performance optimization, indexing strate
 | **`Question1_Solution.md`** | Performance & Scalability Analysis in Hospital Data |
 | **`Question2_Solution.md`** | Indexing Strategy & Query Optimization |
 | **`Question3_Solution.md`** | T-SQL Query Challenge (Hospital Sales Example) |
-| **`CaseQuestions.pdf`** | Original case study questions (provided by Pusula Talent Academy) |
+| **`Pusula_TalentAcademy_2025_SQL_CaseStudy.pdf`** | Original case study questions (provided by Pusula Talent Academy) |
 
 ---
 
